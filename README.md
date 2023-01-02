@@ -33,7 +33,7 @@ class Xempt:
   <img src="https://user-images.githubusercontent.com/121351790/210268372-f0e30fc8-140c-433e-b94a-c0e48e9d5326.png">
 </a>
 <a href="https://github.com/Xzempts">
-  <img src="https://user-images.githubusercontent.com/121351790/210268382-9f5750a7-a58b-4550-8bb9-1fa5ffcdfd6c.png" margin-left: "25px";>
+  <img src="https://user-images.githubusercontent.com/121351790/210268382-9f5750a7-a58b-4550-8bb9-1fa5ffcdfd6c.png";>
 </a>
 <a href="https://streamelements.com/xzmpt/tip">
   <img src="https://user-images.githubusercontent.com/121351790/210268394-bab71e6f-0024-4025-86e4-5a7027a067f6.png">
