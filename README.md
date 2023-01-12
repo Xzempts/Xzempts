@@ -49,19 +49,10 @@ Donations help support XempT & this channel but are not expected. StreamLabs all
 [Click Here](https://streamelements.com/xzmpt/tip) for national currencies.
 
 
-## My Statistics
-
+## 
 <br/>
 <p align="center">
 
-<a href="https://github.com/Xzempts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xzempts&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/Xzempts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzempts&layout=compact" height="195" />
-</a>
-</br>
-</br>
 <a href="https://github.com/Xzempts">
   <img src="https://user-images.githubusercontent.com/121351790/210269065-27ea7af5-8080-4202-8819-ebd2dbee9da3.gif" width="150">
 </a>
